@@ -1,0 +1,21 @@
+Inverse Kinematics Project
+==========================
+
+Names
+-----
+Casey Getz (cs184-an) Submitter of source code
+Howard Nguyen (cs184-ao)
+
+Platform
+--------
+Linux: Browse into ik folder and run make
+
+Features
+-------
+-IK solver for unlimited length and number of joints
+-Multiple parametric paths to follow
+-Animation with speed controlled by 'u' and 'i' keys
+-Zoom with '+' and '-' keys
+-Rotate view with arrow keys
+-Switch between wireframe and solid mode with 'w' key
+-Octopus mode demonstrating capability for multiple appendages and paths
